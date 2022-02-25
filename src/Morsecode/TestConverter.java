@@ -45,5 +45,4 @@ public class TestConverter {
 
         assertEquals("-** ** *** -*- -- *- *** -*- ** -* *** *-* * *--* *- *-* *- - --- *-*", actual);
     }
-
 }

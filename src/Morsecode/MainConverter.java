@@ -28,9 +28,6 @@ public class MainConverter {
                     System.out.println(converter.toEnglish(code));
                 }
             }
-//Lägg till en Y/N om man vill översätta från Engelska eller Morse kod
-
         }
-
     }
 }

@@ -104,7 +104,6 @@ public class Converter {
 
         //returnera resultatet
         return summary;
-
     }
 
     public String toMorse(String a) {
@@ -125,6 +124,5 @@ public class Converter {
 
         //returnera resultatet
         return summary;
-
     }
 }
